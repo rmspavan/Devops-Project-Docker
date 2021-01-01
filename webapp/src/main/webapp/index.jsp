@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+body, html {
+  height: 100%;
+  font-family: "Inconsolata", sans-serif;
+  }
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+</style>
+</head>
+<body>
+
+<div class="navbar">
+  <a href="https://linuxheo.">Home</a>
+   
+    <a href="https://linuhero./#about">About</a>
+    <a href="https://linuhero./#contact">Contact Us</a>
+  </div>
+<!-------------Top Menu End------------->
+
+
+<!-- Add a background color and large text to the whole page -->
+<div class="w3-sand w3-grayscale w3-large">
+  <div class="w3-container">
+  <div class="w3-content" style="max-width:700px">
+   <img src="/devops.jpg" style="width:100%;max-width:1000px" class="w3-margin-top">
+  </div>
+     
+<!-- Content -->
+<div class="w3-container">
+  <div class="w3-content" style="max-width:700px">
+    <h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">Devops Information[Changes done Again]</span></h5>
+    <p><i> The word “DevOps” was coined in 2009 by Patrick Debois, who became one of its gurus. The term was formed by combining “development” and “operations,” which provides a starting point for understanding exactly what people typically mean when they say “DevOps.” Notably, DevOps isn’t a process or a technology or a standard. Many devotees refer to DevOps as a “culture”—a viewpoint that New Relic favors. We also use the term “DevOps movement” when talking about topics such as adoption rates and trends for the future, and “DevOps environment” to refer to an IT organization that has adopted a DevOps culture.<i><p>
+    <br>
+    <p><i>This primer will have a great deal more to say about DevOps, but to get started, we need a serviceable definition. We like this one from "Gartner":<i><p>
+    <marquee behavior="scroll" bgcolor="#d9d9ff" direction="left">"DevOps represents a change in IT culture, focusing on rapid IT service delivery through the adoption of agile, lean practices in the context of a system-oriented approach. DevOps emphasizes people (and culture), and seeks to improve collaboration between operations and development teams. DevOps implementations utilize technology— especially automation tools that can leverage an increasingly programmable and dynamic infrastructure from a life cycle perspective.". ~ Linus Torvalds</marquee>
+   
+ 
+   <h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">What are DevOps principles?</span></h5>
+   
+<p><i>In short, the main principles of DevOps are automation, continuous delivery, and fast reaction to feedback. <br>You can find a more detailed explanation of DevOps pillars in the CAMS acronym:
+<br>
+<br>Culture represented by human communication, technical processes, and tools
+
+<br>Automation of processes
+
+<br>Measurement of KPIs
+
+<br>Sharing feedback, best practices, and knowledge
+
+<br>Adherence to these principles is achieved through a number of DevOps practices that include continuous delivery, frequent deployments, QA automation, validating ideas as early as possible, and in-team collaboration.<i><p>   
+   <br>
+   <h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">The benefits of DevOps</span></h5>
+  <p><i>Companies that incorporate DevOps practices get more done, plain and simple. With a single team composed of cross-functional members all working in collaboration, DevOps organizations can deliver with maximum speed, functionality, and innovation.<i><p>
+<br>
+<p><i>There are technical benefits:-
+<br>
+<br>-Continuous software delivery
+<br>-Less complexity to manage
+<br>-Faster resolution of problems<i><p>
+<br>
+<p><i>There are cultural benefits:
+<br>
+<br>-Happier, more productive teams
+<br>-Higher employee engagement
+<br>-Greater professional development opportunities<i><p>
+
+<p><i>There are business benefits:
+<br>
+<br>-Faster delivery of features
+<br>-More stable operating environments
+<br>-Improved communication and collaboration
+<br>-More time to innovate (rather than fix/maintain)<i><p>
+
+  </div>
+</div>
+
+<!-- Menu Container -->
+
+
+<!-- Contact/Area Container -->
+ 
+
+
+<!-- End page content -->
+</div>
+<!-- hitwebcounter Code START -->
+<h5><span class="w3-code w3-red">views</span></h5> 
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7226025&style=0003&nbdigits=1&type=page&initCount=0" title="User Stats" Alt="PHP Hits Count"   border="0" >
+</a>                                    
+    <script data-ad-client="ca-pub-9816877488746708" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>                
+<!-- End page content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-48 w3-large">
+  
+<body>
+   <div class="list-group">
+     <a class="fa fa-linkedin-square" style="font-size:48px;color:white"></a>
+    </div>
+   </body>
+  
+</footer>
+
+<script>
+// Tabbed Menu
+function openMenu(evt, menuName) {
+  var i, x, tablinks;
+  x = document.getElementsByClassName("menu");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < x.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" w3-black", "");
+  }
+  document.getElementById(menuName).style.display = "block";
+  evt.currentTarget.firstElementChild.className += " w3-black";
+}
+document.getElementById("myLink").click();
+</script>
+
+
+</script>
+<!--End of Tawk.to Script-->
+  
+</body>
+</html>
