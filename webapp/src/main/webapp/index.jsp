@@ -93,7 +93,7 @@ body, html {
 <!-- Content -->
 <div class="w3-container">
   <div class="w3-content" style="max-width:700px">
-    <h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">Devops Information[Changes done Again]</span></h5>
+    <h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">Devops Information</span></h5>
     <p><i> The word “DevOps” was coined in 2009 by Patrick Debois, who became one of its gurus. The term was formed by combining “development” and “operations,” which provides a starting point for understanding exactly what people typically mean when they say “DevOps.” Notably, DevOps isn’t a process or a technology or a standard. Many devotees refer to DevOps as a “culture”—a viewpoint that New Relic favors. We also use the term “DevOps movement” when talking about topics such as adoption rates and trends for the future, and “DevOps environment” to refer to an IT organization that has adopted a DevOps culture.<i><p>
     <br>
     <p><i>This primer will have a great deal more to say about DevOps, but to get started, we need a serviceable definition. We like this one from "Gartner":<i><p>
